@@ -46,6 +46,7 @@ If you would like to add your own config, you can use the [service-template](tem
 | 🗃️ **Vaultwarden**   | An unofficial Bitwarden server implementation written in Rust.                  | [Details](services/vaultwarden)    |
 | 🌿 **Isley**         | A self-hosted cannabis grow journal for tracking plants and managing grow data. | [Details](services/isley)          |
 | ✂️ **ClipCascade**   | A self-hosted clipboard manager for syncing and organizing clipboard history.   | [Details](services/clipcascade)    |
+| 🔖 **Linkding**      | A self-hosted bookmark manager to save and organize links.                      | [Details](services/linkding)       |
 
 ### Development Tools
 
