@@ -31,7 +31,7 @@ If you would like to add your own config, you can use the [service-template](tem
 | 🌐 Service                 | 📝 Description                                                           | 🔗 Link                                 |
 | -------------------------- | ------------------------------------------------------------------------ | --------------------------------------- |
 | 🛡️ **AdGuard Home**        | Network-wide software for blocking ads and tracking.                     | [Details](services/adguardhome)         |
-|  **MISP**                  | Open Source Threat Intel Platform                                        | [Details](services/MISP)                |
+| 🖥️ **MISP**                | Open Source Threat Intel Platform                                        | [Details](services/MISP)                |
 | 🧩 **Pi-hole**             | A network-level ad blocker that acts as a DNS sinkhole.                  | [Details](services/pihole)              |
 | 🔒 **Technitium DNS**      | An open-source DNS server that can be used for self-hosted DNS services. | [Details](services/technitium)          |
 | 🌐 **Traefik**             | A modern reverse proxy and load balancer for microservices.              | [Details](services/traefik)             |
@@ -39,7 +39,6 @@ If you would like to add your own config, you can use the [service-template](tem
 | 🌐 **DDNS Updater**        | A self-hosted solution to keep DNS A/AAAA records updated automatically. | [Details](services/ddns-updater)        |
 | 🔍 **Nessus**              | A powerful vulnerability scanner to identify and remediate security issues. | [Details](services/nessus)              |
 | 🆔 **Pocket ID**           | A self-hosted decentralized identity (OIDC) solution for secure authentication. | [Details](services/pocket-id)           |
-=======
 
 ### Media and Entertainment
 
